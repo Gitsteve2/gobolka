@@ -1,2 +1,0 @@
-# gobolka
-Management System
